@@ -84,7 +84,7 @@
 
 ## 与其他 Skill 衔接
 
-**个人项目整理 → 按学校筛选导师 → 针对选定导师撰写自荐信**
+**[个人项目整理](https://github.com/dasdw-cyber/project-experience-coach) → [按学校筛选导师](https://github.com/dasdw-cyber/baoyan-supervisor-match) → 针对选定导师撰写自荐信**
 
 - 项目整理提供个人行动、方法选择与结果依据。
 - 导师报告提供研究资料、相关论文与联系线索。
